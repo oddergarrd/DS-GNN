@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+data/
+baseline/
+model_result/
+badcase/
+SavedModels/
+.idea/
+ablation/
+__pycache__/
+temp
